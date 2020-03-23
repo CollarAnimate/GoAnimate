@@ -1,2 +1,5 @@
 # GoAnimate
-My own website
+use these steps:
+cd {PATH}
+npm install
+npm start
